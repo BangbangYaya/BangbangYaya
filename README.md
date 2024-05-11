@@ -12,7 +12,7 @@
 
 
 
-<div align="right">
+<div align="centre">
     <img src="https://pa1.narvii.com/6312/25e1635f94543ac00202e494000657d4d36afc50_hq.gif" alt="Animated GIF">
 </div>
 
