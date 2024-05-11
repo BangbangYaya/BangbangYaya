@@ -1,7 +1,9 @@
 <h1 align="center">Henlo 🐣</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bangbangyaya&label=Profile%20views&color=0e75b6&style=flat" alt="bangbangyaya" /> </p>
 
-<img align="right" alt="coding" width="540" src="![image](https://github.com/BangbangYaya/BangbangYaya/assets/138206340/47794cfa-8ce1-4749-92bc-8e7d52258498)">
+
+
+<img align="margin-left: auto; margin-right: auto;" alt="coding" width="540" src="![image](https://github.com/BangbangYaya/BangbangYaya/assets/138206340/47794cfa-8ce1-4749-92bc-8e7d52258498)">
+
 
 
 - 🔭 I’m currently **Studying Bachelor of Computer Applications**
