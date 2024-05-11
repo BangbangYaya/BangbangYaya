@@ -2,10 +2,6 @@
 
 
 
-<img align="margin-left: auto; margin-right: auto;" alt="coding" width="540" src="![image](https://github.com/BangbangYaya/BangbangYaya/assets/138206340/47794cfa-8ce1-4749-92bc-8e7d52258498)">
-
-
-
 - 🔭 I’m currently **Studying Bachelor of Computer Applications**
 
 - 🌱 I’m currently learning **Python & JS**
@@ -13,6 +9,17 @@
 - 👯 I’m looking to collaborate **on anything which can improve my skills.**
 
 - ⚡ Fun fact **The first computer bug was an actual insect—a moth trapped in a Harvard Mark II computer in 1947.**
+
+
+
+<div align="right">
+    <img src="https://pa1.narvii.com/6312/25e1635f94543ac00202e494000657d4d36afc50_hq.gif" alt="Animated GIF">
+</div>
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
