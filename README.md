@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently **Studying Bachelor of Computer Applications**
+                             - 🔭 I’m currently **Studying Bachelor of Computer Applications**
 
 - 🌱 I’m currently learning **Python & JS**
 
-- 👯 I’m looking to collaborate **on anything which can improve my skills.**
+                                              - 👯 I’m looking to collaborate **on anything which can improve my skills.**
 
 - ⚡ Fun fact **The first computer bug was an actual insect—a moth trapped in a Harvard Mark II computer in 1947.**
 
