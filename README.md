@@ -9,8 +9,6 @@ BCA graduate passionate about technology and software development. Currently foc
 
 
 <div style="text-align: center;">
-    <img src="[https://gif.guru/file/aHR0cHM6Ly90aHVtYnMuZ2Z5Y2F0LmNvbS9BZG9yYWJsZVByZXN0aWdpb3VzS2lsbGVyd2hhbGUtc2l6ZV9yZXN0cmljdGVkLmdpZg.mp4]" alt="Animated GIF">
-</div>
 
 
 
