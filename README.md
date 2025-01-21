@@ -3,12 +3,7 @@
 
 
    <h2> About Me </h2>
-   **BCA graduate passionate about software development**
-
-   I’m currently learning **Python & JS**
-
-   I’m looking to collaborate **on anything which can improve my skills.**
-
+BCA graduate passionate about technology and software development. Currently focusing on learning web development, Python, and problem-solving. Eager to build impactful projects and contribute to open-source. Actively looking for internship opportunities to apply my skills and grow in the tech industry.
 
 
 <div style="text-align: center;">
