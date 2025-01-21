@@ -6,7 +6,7 @@
 BCA graduate passionate about technology and software development. Currently focusing on learning web development, Python, and problem-solving. Eager to build impactful projects and contribute to open-source. Actively looking for internship opportunities to apply my skills and grow in the tech industry.
 
 
-<img align="left" alt="coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE3N3NudWp3NWwxZGx4OHpmdmQ4MmtlOXZ3amdrb3VqNHFyM2JyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif">
+<img align="right" alt="coding" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE3N3NudWp3NWwxZGx4OHpmdmQ4MmtlOXZ3amdrb3VqNHFyM2JyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif">
 
 
 
@@ -17,8 +17,8 @@ BCA graduate passionate about technology and software development. Currently foc
 
 
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/rushita taviad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushita taviad" height="30" width="40" /></a>
 <a href="https://fb.com/rushita taviad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rushita taviad" height="30" width="40" /></a>
 <a href="https://instagram.com/bangbang__yaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bangbang__yaya" height="30" width="40" /></a>
