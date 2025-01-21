@@ -9,7 +9,7 @@ BCA graduate passionate about technology and software development. Currently foc
 
 
 <div style="text-align: center;">
-    <img src="[[https://pa1.narvii.com/6312/25e1635f94543ac00202e494000657d4d36afc50_hq.gif](https://tenor.com/bY6Sf.gif](https://thumbs.gfycat.com/AdorablePrestigiousKillerwhale-size_restricted.gif))" alt="Animated GIF">
+    <img src="[https://gif.guru/file/aHR0cHM6Ly90aHVtYnMuZ2Z5Y2F0LmNvbS9BZG9yYWJsZVByZXN0aWdpb3VzS2lsbGVyd2hhbGUtc2l6ZV9yZXN0cmljdGVkLmdpZg.mp4]" alt="Animated GIF">
 </div>
 
 
