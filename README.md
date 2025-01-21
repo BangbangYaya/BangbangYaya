@@ -7,7 +7,7 @@
 
 <img align="left" alt="coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE3N3NudWp3NWwxZGx4OHpmdmQ4MmtlOXZ3amdrb3VqNHFyM2JyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif">
 
-<br><br><br><br><br> <!-- Extra spacing between sections -->
+<br><br><br> <!-- Extra spacing between sections -->
 
 <div style="text-align: center;">
   <h3>Connect with me:</h3>
@@ -29,7 +29,7 @@
   <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40" /></a>
 </div>
 
-<br><br><br><br> <!-- Extra spacing between sections -->
+<br><br><br> <!-- Extra spacing between sections -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangbangyaya&show_icons=true&locale=en&layout=compact" alt="bangbangyaya" /></p>
 
