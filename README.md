@@ -2,7 +2,7 @@
 
 
 
-   <h2 About Me /h2>
+   <h2> About Me </h2>
    **BCA graduate passionate about software development**
 
    I’m currently learning **Python & JS**
