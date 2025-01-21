@@ -2,7 +2,7 @@
 
 
 
-   I’m currently **Studying Bachelor of Computer Applications**
+   I’m currently **BCA graduate passionate about software development**
 
    I’m currently learning **Python & JS**
 
