@@ -6,6 +6,8 @@
 BCA graduate passionate about technology and software development. Currently focusing on learning web development, Python, and problem-solving. Eager to build impactful projects and contribute to open-source. Actively looking for internship opportunities to apply my skills and grow in the tech industry.
 
 
+
+
 <div style="text-align: center;">
     <img src="https://pa1.narvii.com/6312/25e1635f94543ac00202e494000657d4d36afc50_hq.gif" alt="Animated GIF">
 </div>
