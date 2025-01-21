@@ -5,6 +5,8 @@
    <h2> About Me </h2>
 BCA graduate passionate about technology and software development. Currently focusing on learning web development, Python, and problem-solving. Eager to build impactful projects and contribute to open-source. Actively looking for internship opportunities to apply my skills and grow in the tech industry.
 
+<!-- Add space here -->
+<br><br>
 
 <img align="centre" alt="coding" width="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE3N3NudWp3NWwxZGx4OHpmdmQ4MmtlOXZ3amdrb3VqNHFyM2JyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif">
 
